@@ -1,4 +1,4 @@
-# Ubuntu 20.04.1 LTS VM (VMware vSphere ESXi 6.7)
+# **Créer VM Ubuntu 20.04.1 LTS sur VMware vSphere ESXi 6.7**
 
 Cette documentation sert de support d'installation pour créer une VM d'Ubuntu Serveur sur un serveur ESXi via une console web (sans vCenter Server)
 
@@ -20,7 +20,7 @@ Télécharger l'ISO [Ubuntu Server 20.04.1 LTS](https://ubuntu.com/download/serv
 
 Se connecter sur la console web d'ESXi
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111122348502.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_01_vmwareConsole.png)*
 
 Etendre **Stockage** puis cliquer sur **datastore**1
 
@@ -36,9 +36,7 @@ Cliquer sur **Navigateur de banque de données**
 
 ![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111123122716.png)
 
-Patienter durant l'intégration puis clique sur **Fermer**
-
-![Screenshot of ESXi 6.7](https://graspingtech.com/esxi-ubuntu-18.04-vm/upload-ubuntu-esxi-datastore-step-4.jpg)
+Patienter durant l'intégration puis cliquer sur **Fermer**
 
 L'ISO est maintenant intégré sur le stockage du serveur ESXi
 
