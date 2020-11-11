@@ -51,7 +51,7 @@ Cliquer sur **Hôte** puis **Créer/Enregistrer une VM**
 L'installeur s'ouvre
 
 1. Cliquer sur **Créer une machine virtuelle**
-2. Puis **Suivant**
+2. Puis cliquer sur **Suivant**
 
 ![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_07_creationVM2.png)
 
@@ -68,15 +68,15 @@ Sélectionner **datastore1**, c'est le disque sur lequel sera stocké la VM puis
 
 Dans **Lecteur de CD/DVD 1**, sélectionner **Fichier ISO banque de données** puis cliquer sur **Parcourir**…
 
-![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_09_creationVM5.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_10_creationVM5.png)
 
 Sélectionner l'ISO, puis cliquer  sur **Sélectionner**
 
-![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_09_creationVM6.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_11_creationVM6.png)
 
 Modifier les paramètres (CPU, Mémoire, Disque dur 1, etc.) puis cliquer sur **Suivant**
 
-![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_09_creationVM7.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_12_creationVM7.png)
 
 La VM est désormais prête, vérifier que les informations à l'écran sont correctes puis cliquer sur **Terminer**
 
