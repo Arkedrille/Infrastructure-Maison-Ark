@@ -129,4 +129,4 @@ apt install open-vm-tools -y
 
 **Ecrit par: [Tony Mackay](https://tonymackay.net/)**
 
-**Traduit et mis à jour en pour Ubuntu 20.04.1 LTS par: [Karl Zawisla](https://github.com/Arkedrille/)**
+**Traduit et mis à jour pour Ubuntu 20.04.1 LTS par: [Karl Zawisla](https://github.com/Arkedrille/)**
