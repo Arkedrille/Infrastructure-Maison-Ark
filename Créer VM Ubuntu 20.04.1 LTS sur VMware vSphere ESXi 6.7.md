@@ -20,7 +20,7 @@ Télécharger l'ISO [Ubuntu Server 20.04.1 LTS](https://ubuntu.com/download/serv
 
 Se connecter sur la console web d'ESXi
 
-![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_01_vmwareConsole.png)*
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_01_vmwareConsole.png)
 
 Etendre **Stockage** puis cliquer sur **datastore**
 
