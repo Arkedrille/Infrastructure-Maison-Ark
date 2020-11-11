@@ -103,7 +103,7 @@ L'installeur devrait apparaître dans un autre onglet
 
 ![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_16_installeur.png)
 
-Suivre la [procédure d'installation]("https://github.com/Arkedrille/Infrastructure-Maison-Ark/Installer Ubuntu 20.04.1 Serveur LTS.md"). Une fois finie, on devra retirer l'ISO et installer VMware tools.
+Suivre la [procédure d'installation](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/Installer%20Ubuntu%2020.04.1%20Serveur%20LTS.md). Une fois finie, on devra retirer l'ISO et installer VMware tools.
 
 
 
@@ -129,4 +129,4 @@ apt install open-vm-tools -y
 
 **Ecrit par: [Tony Mackay](https://tonymackay.net/)**
 
-**Traduit et mis à jour en pour Ubuntu 20.04.1 LTS par: [Karl Zawisla](https://github.com/Arkedrille/)**
+**Traduit et mis à jour pour Ubuntu 20.04.1 LTS par: [Karl Zawisla](https://github.com/Arkedrille/)**
