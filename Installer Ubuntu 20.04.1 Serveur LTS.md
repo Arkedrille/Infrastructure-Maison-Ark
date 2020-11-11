@@ -28,7 +28,7 @@ Une fois que l'OS a démarré, il faut paramétrer l'installeur comme suit :
 
 Sélectionner **Français**
 
-![image-20201111131551871](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131551871.png)
+![]()
 
 Mettre à jour l'installeur si demandé
 
