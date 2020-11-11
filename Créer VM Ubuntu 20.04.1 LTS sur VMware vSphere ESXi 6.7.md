@@ -113,7 +113,7 @@ Il faut déconnecter l'ISO Ubuntu pour éviter des erreurs en cas de future migr
 
 Cliquer sur **Modifier** puis sélectionner **Périphérique hôte** sur **Lecteur de CD/DVD 1** puis cliquer sur **Enregistrer**
 
-![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_17_deconnecterISO.png]()
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_17_deconnecterISO.png)
 
 
 
