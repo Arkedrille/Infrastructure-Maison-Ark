@@ -22,19 +22,19 @@ Se connecter sur la console web d'ESXi
 
 ![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_01_vmwareConsole.png)*
 
-Etendre **Stockage** puis cliquer sur **datastore**1
+Etendre **Stockage** puis cliquer sur **datastore**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111143920418.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_02_datastore.png]()
 
 Cliquer sur **Navigateur de banque de données**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111122856841.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_03_navigateurbdd.png]()
 
 1. Cliquer sur **Charger**
 2. Sélectionner l'ISO téléchargé plus tôt
 3. Cliquer sur **Ouvrir**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111123122716.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_04_explorateurWin.png]()
 
 Patienter durant l'intégration puis cliquer sur **Fermer**
 
@@ -46,37 +46,37 @@ L'ISO est maintenant intégré sur le stockage du serveur ESXi
 
 Cliquer sur **Hôte** puis **Créer/Enregistrer une VM**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111123330331.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_06_creationVM1.png]()
 
 L'installeur s'ouvre
 
 1. Cliquer sur **Créer une machine virtuelle**
 2. Puis **Suivant**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111144054206.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_07_creationVM2.png]()
 
 1. Nommer la VM
 2. Sélectionner **Linux** pour **Famille de systèmes d'exploitation invités**
 3. Sélectionner **Ubuntu Linux (64-bit)** pour **Version du SE invité**
 4. Puis cliquer sur **Suivant**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111124117180.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_08_creationVM3.png]()
 
 Sélectionner **datastore1**, c'est le disque sur lequel sera stocké la VM puis cliquer sur **Suivant**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111124511725.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_09_creationVM4.png]()
 
 Dans **Lecteur de CD/DVD 1**, sélectionner **Fichier ISO banque de données** puis cliquer sur **Parcourir**…
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111125253276.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_09_creationVM5.png]()
 
 Sélectionner l'ISO, puis cliquer  sur **Sélectionner**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111125330326.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_09_creationVM6.png]()
 
 Modifier les paramètres (CPU, Mémoire, Disque dur 1, etc.) puis cliquer sur **Suivant**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111125555121.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_09_creationVM7.png]()
 
 La VM est désormais prête, vérifier que les informations à l'écran sont correctes puis cliquer sur **Terminer**
 
@@ -89,19 +89,19 @@ La VM étant prête, l'OS est prêt à être installé
 1. Cliquer sur **Machines Virtuelles**
 2. Cliquer sur le nom de la VM
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111130007556.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_13_installos.png]()
 
 Cliquer sur **Mettre sous tension**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111130054023.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_14_sousTension.png]()
 
 Cliquer sur **Console** puis **Ouvrir une console dans une nouvelle fenêtre**.
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111130138059.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_15_console.png]()
 
 L'installeur devrait apparaître dans un autre onglet 
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111130305049.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_16_installeur.png]()
 
 Suivre la [procédure d'installation](https://github.com/Arkedrille/Infrastructure-Maison-Ark/Installer Ubuntu 20.04.1 Serveur LTS.md). Une fois finie, on devra retirer l'ISO et installer VMware tools.
 
@@ -113,7 +113,7 @@ Il faut déconnecter l'ISO Ubuntu pour éviter des erreurs en cas de future migr
 
 Cliquer sur **Modifier** puis sélectionner **Périphérique hôte** sur **Lecteur de CD/DVD 1** puis cliquer sur **Enregistrer**
 
-![](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111140148522.png)
+![https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7/img_17_deconnecterISO.png]()
 
 
 
