@@ -6,7 +6,7 @@ Cette documentation vise à aider à l'installation pas à pas de Ubutnu 20.04.1
 
 ## Introduction
 
-Cette procédure a été conçue pour compléter la procédure de [création de VM sous VMware ESXi](https://github.com/Arkedrille/Infrastructure-Maison-Ark/Créer VM Ubuntu 20.04.1 LTS sur VMware vSphere ESXi 6.7.md). 
+Cette procédure a été conçue pour compléter la procédure de [création de VM sous VMware ESXi](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/Cr%C3%A9er%20VM%20Ubuntu%2020.04.1%20LTS%20sur%20VMware%20vSphere%20ESXi%206.7.md). 
 
 
 
