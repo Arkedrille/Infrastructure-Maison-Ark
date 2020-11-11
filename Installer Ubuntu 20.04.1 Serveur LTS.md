@@ -28,58 +28,58 @@ Une fois que l'OS a démarré, il faut paramétrer l'installeur comme suit :
 
 Sélectionner **Français**
 
-![]()
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_01_installeur.png)
 
 Mettre à jour l'installeur si demandé
 
-![image-20201111131620152](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131620152.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_02_installeur.png)
 
 Modifier la disposition du clavier et variante et sélectionner/valider avec **Terminé**
 
-![image-20201111131715509](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131715509.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_03_installeur.png)
 
 Sélectionner  le nom du réseaux, préférer une connexion câblée plutôt qu'une connexion WiFi et sélectionner/valider avec **Terminé**
 
-![image-20201111131756067](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131756067.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_04_installeur.png)
 
 Un proxy peut être renseigné, ne rien remplir et sélectionner/valider avec **Terminé**
 
-![image-20201111131815465](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131815465.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_05_installeur.png)
 
 Laisser l'archive par défaut et sélectionner/valider avec **Terminé**
 
-![image-20201111131834366](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131834366.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_06_installeur.png)
 
 Ici, on utilise tout le disque, voir selon les besoins et sélectionner/valider avec **Terminé**
 
-![image-20201111131900731](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131900731.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_07_installeur.png)
 
 Vérifier si la configuration du stockage est correcte puis sélectionner/valider avec **Terminé**
 
-![image-20201111131917436](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131917436.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_08_installeur.png)
 
 Valider l'installation sur le disque avec **Continuer**
 
-![image-20201111131934133](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131934133.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_09_installeur.png)
 
 Configuration de l'user
 
-![image-20201111131950779](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111131950779.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_10_installeur.png)
 
 Installer OpenSSH server pour pouvoir prendre la main à distance sur le poste via SSH (avec un logiciel comme putty - windows, linux et macOS)et sélectionner/valider avec **Terminé**
 
-![image-20201111132440542](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111132440542.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_11_installeur.png)
 
 Installer (ou pas) des paquets et sélectionner/valider avec **Terminé**
 
-![image-20201111132510785](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111132510785.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_12_installeur.png)
 
 Attendre la fin de l'installation et des mises à jour de sécurité 
 
-![image-20201111132536067](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111132536067.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_13_installeur.png)
 
 et finaliser l'installation en validant avec **Reboot**
 
-![image-20201111135934984](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111135934984.png)
+![](https://github.com/Arkedrille/Infrastructure-Maison-Ark/blob/master/assets/images-Installer%20Ubuntu%2020.04.1%20Serveur%20LTS/img_14_installeur.png)
 
 Ne pas oublier de retirer la clé bootable ou disque de démarrage quand l'installeur le demandera et au prochain reboot la distribution sera accessible
