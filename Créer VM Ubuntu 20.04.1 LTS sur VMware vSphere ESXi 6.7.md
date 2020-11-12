@@ -127,6 +127,6 @@ apt install open-vm-tools -y
 
 
 
-**Ecrit par: [Tony Mackay](https://tonymackay.net/)**
+**Article original: [Graspingtech](https://graspingtech.com/esxi-ubuntu-18.04-vm/)**
 
 **Traduit et mis à jour pour Ubuntu 20.04.1 LTS par: [Karl Zawisla](https://github.com/Arkedrille/)**
